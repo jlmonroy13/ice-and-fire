@@ -4,11 +4,11 @@ An application to track characters from the epic series "A Song of Ice and Fire"
 
 ## Table of Contents
 - [Project Description](#project-description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- [Live URL](#live-url)
 
 ## Project Description
 
@@ -21,6 +21,13 @@ As an avid fan of the epic series A Song of Ice and Fire, it can be hard to keep
 - Indicates whether each sworn member is alive or dead
 - Displays details about each sworn member if they are dead
 - Supports dark mode based on user's system preference
+
+## Technologies Used
+
+- **Next.js**: Next.js enables you to create high-quality web applications with the power of React components.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **React Icons**: For adding icons to enhance the user interface.
+- **Axios**: For making HTTP requests.
 
 ## Installation
 
@@ -44,3 +51,7 @@ To start the development server, run:
 ```bash
 npm run dev
 ```
+
+## Live URL
+https://ice-and-fire-alpha.vercel.app/
+
